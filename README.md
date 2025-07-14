@@ -12,8 +12,6 @@ Welcome to my GitHub profile! I'm passionate about technology, learning, and bui
 ## 🔍 Interests
 - 🧠 Algorithms & Competitive Programming
 - 🌐 Frontend + Backend Development
-- 🖥️ System Design & Architecture
-- ⚙️ DevOps and Cloud Basics
 
 ## 🤝 Let's Collaborate!
 I’m open to collaborating on:
