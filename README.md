@@ -1,31 +1,77 @@
-# 👋 Hi there, I'm Shresth!
+👋 Hey, I'm Shresth!
 
-Welcome to my GitHub profile! I'm passionate about technology, learning, and building cool things with code.
+Welcome to my GitHub! I love building things that solve real problems and push me to grow as a developer.
 
-## 🚀 About Me
-- 🎓 I'm currently a student, exploring the world of **software development**, **problem-solving**, and **system design**.
-- 🌱 Actively learning **Java**, **Data Structures & Algorithms**, **Web Development** (React & Node.js), and **Databases**.
-- 🛠️ Working on small projects and sharpening my skills through challenges and real-world problem-solving.
-- 🤖 I’m especially curious about **AI**, **Open Source**, and **Full-Stack Development**.
-- 😄 Pronouns: he/him
+🚀 About Me
 
-## 🔍 Interests
-- 🧠 Algorithms & Competitive Programming
-- 🌐 Frontend + Backend Development
+🎓 BTech CSE student exploring software engineering, backend architecture, and scalable systems.
 
-## 🤝 Let's Collaborate!
-I’m open to collaborating on:
-- Beginner-friendly open source projects
-- JavaScript/Java-based applications
-- Hackathons and student-driven initiatives
+💻 Actively building with the MERN Stack, integrating secure workflows like OTP verification, Google OAuth, Cloudinary uploads, and protected routes.
 
-## 📫 Reach Me At:
-- 📧 Email: 2725shresth@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/shresth2725](https://linkedin.com/in/shresth2725)
+☁️ Working with AWS EC2 for hosting production-ready apps and learning the foundation of modern DevOps practices.
 
-## ⚡ Fun Fact
-I believe in **learning by doing**—if I break it, I build it better the next time!
+🧩 Strengthening skills in Java, DSA, and real-world problem-solving.
 
----
+⚙️ Learning Terraform and Ansible to automate infrastructure provisioning and configuration — moving toward Infrastructure-as-Code and efficient deployments.
 
-*Thanks for stopping by! Feel free to check out my repositories and drop a ⭐ if something interests you.* 😊
+🤖 Curious about AI, automation, and building clean, reliable systems.
+
+🔍 Current Interests
+
+Full-stack engineering (React + Node.js + MongoDB)
+
+DevOps fundamentals: CI/CD, IaC, automation, monitoring
+
+Infrastructure provisioning with Terraform
+
+Server configuration & orchestration with Ansible
+
+Algorithms, design patterns, and performance optimization
+
+🛠️ Tech Stack
+
+Languages: Java, JavaScript, TypeScript
+
+Frontend: React, TailwindCSS, Context API
+
+Backend: Node.js, Express, JWT, Multer
+
+Database: MongoDB, Mongoose
+
+Cloud & DevOps:
+
+AWS EC2, S3
+
+Nginx (reverse proxy)
+
+PM2 (process manager)
+
+Cloudinary
+
+Terraform (IaC)
+
+Ansible (automation & configuration management)
+
+GitHub Actions (CI/CD basics)
+
+Tools: Git, GitHub, Postman, VS Code
+
+🤝 Open to Collaborations On
+
+Full-stack applications
+
+Backend-focused builds
+
+DevOps mini-projects (IaC, automation, pipelines)
+
+Beginner-friendly open source contributions
+
+📫 Contact
+
+Email: 2725shresth@gmail.com
+
+LinkedIn: https://linkedin.com/in/shresth2725
+
+⚡ Fun Fact
+
+If something breaks, I treat it as a debugging adventure — not a setback.
