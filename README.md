@@ -48,7 +48,7 @@ Welcome to my GitHub! I enjoy building practical software systems that solve rea
 - Cloudinary
 - Terraform (Infrastructure as Code)
 - Ansible (automation & configuration management)
-- GitHub Actions (CI/CD basics)
+- Jenkins (CI/CD basics)
 
 ### Tools
 - Git
