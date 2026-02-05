@@ -49,8 +49,6 @@
 ### 🧠 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq)
 
